@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="eaf6cb34b7a141dda45f807e01ff4ad1" Name="Diagram1" ZoomLevel="93">
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAcumulado" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAcumuladosTipos" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAgente" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAlmacene" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAsientosContable" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAsocAcumConcepto" Width="1.5" PointX="6.75" PointY="4.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admAsocCargosAbono" Width="1.5" PointX="4.75" PointY="7.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admBandera" Width="1.5" PointX="6.75" PointY="7.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admBitacora" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admCapasProducto" Width="1.5" PointX="8.75" PointY="6.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admCaracteristica" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admCaracteristicasValore" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admClasificacione" Width="1.5" PointX="10.75" PointY="3.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admClasificacionesValore" Width="1.5" PointX="10.75" PointY="6.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admCliente" Width="1.5" PointX="10.75" PointY="10.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admComponentesPaquete" Width="1.5" PointX="2.75" PointY="11.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admConcepto" Width="1.5" PointX="4.75" PointY="11.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admConceptosBack" Width="1.5" PointX="12.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admConversionesUnidad" Width="1.5" PointX="6.75" PointY="12.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admCostosHistorico" Width="1.5" PointX="14.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admCuentasBancaria" Width="1.5" PointX="14.75" PointY="4.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admDatosAddenda" Width="1.5" PointX="14.75" PointY="11.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admDocumento" Width="1.5" PointX="14.75" PointY="14.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admDocumentosModelo" Width="1.5" PointX="0.75" PointY="15.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admDocumentosModelosBack" Width="1.5" PointX="6.75" PointY="15.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admDomicilio" Width="1.5" PointX="16.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admEjercicio" Width="1.5" PointX="16.75" PointY="6.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admExistenciaCosto" Width="1.5" PointX="16.75" PointY="11.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admFoliosDigitale" Width="1.5" PointX="18.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMaximosMinimo" Width="1.5" PointX="18.75" PointY="14.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMoneda" Width="1.5" PointX="0.75" PointY="19.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovimiento" Width="1.5" PointX="6.75" PointY="19.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovimientosCapa" Width="1.5" PointX="18.75" PointY="19.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovimientosContable" Width="1.5" PointX="20.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovimientosPrepoliza" Width="1.5" PointX="20.75" PointY="6.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovimientosSerie" Width="1.5" PointX="20.75" PointY="11.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovtosBancario" Width="1.5" PointX="20.75" PointY="14.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovtosCEP" Width="1.5" PointX="20.75" PointY="20.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovtosInvFisico" Width="1.5" PointX="22.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admMovtosInvFisicoSerieCa" Width="1.5" PointX="22.75" PointY="4.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admNumerosSerie" Width="1.5" PointX="22.75" PointY="9.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admParametro" Width="1.5" PointX="22.75" PointY="15.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admParametrosBack" Width="1.5" PointX="0.75" PointY="23.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admPreciosCompra" Width="1.5" PointX="24.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admPrepoliza" Width="1.5" PointX="24.75" PointY="4.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admProducto" Width="1.5" PointX="24.75" PointY="9.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admProductosDetalle" Width="1.5" PointX="16.75" PointY="25.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admProductosFoto" Width="1.5" PointX="26.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admPromocione" Width="1.5" PointX="26.75" PointY="3.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admProyecto" Width="1.5" PointX="26.75" PointY="11.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admSATSegmento" Width="1.5" PointX="26.75" PointY="18.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admTiposCambio" Width="1.5" PointX="26.75" PointY="21.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admUnidadesMedidaPeso" Width="1.5" PointX="26.75" PointY="24.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admVistasCampos" Width="1.5" PointX="26.75" PointY="27.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admVistasConsulta" Width="1.5" PointX="28.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admVistasPorModulo" Width="1.5" PointX="28.75" PointY="5.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admVistasRecurso" Width="1.5" PointX="28.75" PointY="9.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admVistasRelacione" Width="1.5" PointX="28.75" PointY="15.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.admVistasTabla" Width="1.5" PointX="18.75" PointY="28.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.Login" Width="1.5" PointX="28.75" PointY="20.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.Payment" Width="1.5" PointX="28.75" PointY="24.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.VREPGEN" Width="1.5" PointX="30.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.production" Width="1.5" PointX="29.375" PointY="29.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.user" Width="1.5" PointX="32.25" PointY="4.375" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.ViewPay" Width="1.5" PointX="31.375" PointY="7.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.ViewClin" Width="1.5" PointX="31.375" PointY="10.75" />
+        <EntityTypeShape EntityType="Christian_FranciscoModel.deudroe" Width="1.5" PointX="31.375" PointY="13.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
